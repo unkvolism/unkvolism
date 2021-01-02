@@ -11,18 +11,22 @@
 - :octocat: litch@kali:-# sudo msfvenom -p heart/meterpreter/her_heart LHOST=0.tcp.ngrok.io LPORT:10777 -f exe > mylove
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-![](https://media1.tenor.com/images/a1ad139565476989d1ae8cb36ff923cc/tenor.gif?itemid=15016452)
-
+<p align="center">
+        <p align="center">
+            <p align="center"><em>† Hydra † | 0478 | ~The God's#4751</em></p>
+        </p>
+        <p align="center">
+            <a align="center">
+                <img align="center" src="https://img.shields.io/badge/offensive security-blueviolet?&style=for-the-badge&logo=hackaday&logoColor=white"/>
+            </a> &nbsp;
+            <a align="center">
+                <img align="center" src="https://img.shields.io/badge/javascript-blueviolet?&style=for-the-badge&logo=javascript&logoColor=white"/>
+            </a> &nbsp;
+            <a align="center">
+                <img align="center" src="https://img.shields.io/badge/python-blueviolet?&style=for-the-badge&logo=python&logoColor=white"/>
+            </a> &nbsp;   
+        <br>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy0x157&layout=compact"/>
+        </p>
+    </p>
+</p>
