@@ -1,6 +1,6 @@
 ### :man_technologist: Hello, I'am b3tr4y3d 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/zy0x157)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/b3tr4y3d)
 
 
 ### About me:
