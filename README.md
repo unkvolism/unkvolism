@@ -4,7 +4,6 @@
 
 ## 👋 Hello, I'am b3tr4y3d  :man_technologist:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=b3tr4y3d&repo=github-readme-stats)](https://github.com/b3tr4y3d/github-readme-stats)
 
 
 
