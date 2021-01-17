@@ -6,6 +6,10 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/b3tr4y3d)
 
+ 💻 Tools: <div align="center">  [![Git](https://img.shields.io/badge/-git-black?style=flat-square&logo=Git)](https://git-scm.com/) [![Linux](https://img.shields.io/badge/-linux-%231572B6?style=flat-square&logo=linux)](https://www.kernel.org/doc/html/latest/)
+
+</div>
+
 
 ### About me:
 - :game_die: I'm a young programmer
