@@ -12,7 +12,3 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b3tr4y3d&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="b3tr4y3d" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3tr4y3dlayout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
-</p>
