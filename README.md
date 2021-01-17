@@ -1,4 +1,8 @@
-### :man_technologist: Hello, I'am b3tr4y3d 👋
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+</p>
+
+## 👋 Hello, I'am b3tr4y3d  :man_technologist:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/b3tr4y3d)
 
