@@ -11,7 +11,7 @@
 - :octocat: b3tr4y3d@root nmap -A -sV -p- 127.0.0.1
 
 
-![b3try3d github stats](https://github-readme-stats.vercel.app/api?username=b3tr4y3d&show_icons=true&theme=tokyonight)
+![b3try3d github stats](https://github-readme-stats.vercel.app/api?username=b3tr4y3d&show_icons=true&theme=cobalt)
 
 
 
