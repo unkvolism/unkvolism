@@ -12,6 +12,7 @@
 
 
 ![b3try3d github stats](https://github-readme-stats.vercel.app/api?username=b3tr4y3d&show_icons=true&theme=cobalt)
+![b3tr4y3d github stats](https://github-readme-stats.vercel.app/api?username=b3tr4y3d&hide=contribs,prs)
 
 
 
