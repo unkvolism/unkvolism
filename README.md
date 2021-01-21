@@ -16,7 +16,7 @@
 
 
 ![b3try3d github stats](https://github-readme-stats.vercel.app/api?username=ko0tu&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b3tr4y3d)](https://github.com/b3tr4y3d/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko0tu)](https://github.com/ko0tu/github-readme-stats)
 
 
 
