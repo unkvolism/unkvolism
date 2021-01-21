@@ -1,9 +1,11 @@
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px"> 
+  <img align="right" src="https://data.whicdn.com/images/232263957/original.gif" width="50px"> 
 </p>
 
 ## 👋 Hello, I'am kootu  :man_technologist:
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
 
@@ -12,7 +14,7 @@
 - 💻 Join my [discord server](https://discord.gg/qVx4CbU6a9) to talk about anything!
 - :shipit: My projects is avaliable [here](https://github.com/ko0tutab=repositories)
 - :heart: Hacking, Python, C, C++
-- :octocat: b3tr4y3d@root  nmap -A -sV -p- 127.0.0.1
+- :octocat: kootu@root  nmap -A -sV -p- 127.0.0.1
 
 
 ![b3try3d github stats](https://github-readme-stats.vercel.app/api?username=ko0tu&show_icons=true&theme=cobalt)
