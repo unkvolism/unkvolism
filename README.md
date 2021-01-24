@@ -3,7 +3,7 @@
   <img align="right" src="https://data.whicdn.com/images/232263957/original.gif" width="50px"> 
 </p>
 
-## 👋 Hello, I'am kootu  :man_technologist:
+## 👋 Hello, I'am haku  :man_technologist:
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -12,13 +12,13 @@
 ### About me:
 - :game_die: I'm a young programmer
 - 💻 Join my [discord server](https://discord.gg/qVx4CbU6a9) to talk about anything!
-- :shipit: My projects is avaliable [here](https://github.com/ko0tutab=repositories)
+- :shipit: My projects is avaliable [here](https://github.com/haku0x666tab=repositories)
 - :heart: Hacking, Python, C, C++
 - :octocat: kootu@root  nmap -A -sV -p- 127.0.0.1
 
 
-![b3try3d github stats](https://github-readme-stats.vercel.app/api?username=ko0tu&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko0tu)](https://github.com/ko0tu/github-readme-stats)
+![b3try3d github stats](https://github-readme-stats.vercel.app/api?username=haku0x666&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko0tu)](https://github.com/haku0x666/github-readme-stats)
 
 
 
