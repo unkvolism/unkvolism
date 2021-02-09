@@ -14,7 +14,7 @@
 - 💻 Join my [discord server](https://discord.gg/qVx4CbU6a9) to talk about anything!
 - :shipit: My projects is avaliable [here](https://github.com/haku0x666tab=repositories)
 - :heart: Hacking, Python, C, C++
-- :octocat: kootu@root  nmap -A -sV -p- 127.0.0.1
+- :octocat: haku@root  nmap -A -sV -p- 127.0.0.1
 
 
 ![b3try3d github stats](https://github-readme-stats.vercel.app/api?username=haku0x666&show_icons=true&theme=cobalt)
