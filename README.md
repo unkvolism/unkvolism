@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  img src=<script src="https://tryhackme.com/badge/345320"></script>
+  <img src="https://i.pinimg.com/originals/20/a3/39/20a33902b783b0dd826338fdd84fe9aa.gif" width="200" >
 </p>
 
 
