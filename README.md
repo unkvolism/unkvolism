@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/20/a3/39/20a33902b783b0dd826338fdd84fe9aa.gif" width="200" >
+  <img src="https://media.tenor.com/images/c3dbd26ea7e9dae2757399c48ba700aa/tenor.gif" width="200" >
 </p>
 
 <p align="center">
