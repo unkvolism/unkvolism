@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+  <script src="https://tryhackme.com/badge/345320"></script>
 </p>
 
 
