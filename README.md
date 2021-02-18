@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px"> 
+  <img src="https://tryhackme-badges.s3.amazonaws.com/haku0x666.png" alt="TryHackMe"> width="50px"> 
   <img align="right" src="https://data.whicdn.com/images/232263957/original.gif" width="50px"> 
 </p>
 
