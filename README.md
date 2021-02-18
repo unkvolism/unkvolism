@@ -26,6 +26,19 @@
   <img src="https://i.pinimg.com/originals/20/a3/39/20a33902b783b0dd826338fdd84fe9aa.gif" width="200" >
 </p>
 
+<p align="center">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/haku0x666">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
+  &nbsp; &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCivpChoiaRVkfY7EbxdDS5Q">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
+  &nbsp; &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://discord.gg/v5d3PZ9">
+  <img src="https://orig00.deviantart.net/da8e/f/2017/113/2/0/discord_pixel_icon_by_grizz5-db6w18c.png" width="25px" alt="Discord"></a>
+  &nbsp; &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/haku0x666">
+  <img src="https://avatars0.githubusercontent.com/u/57802372?s=400&v=4" width="30px" alt="Github"></a>
+</p> 
 
 
 
