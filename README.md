@@ -18,7 +18,6 @@
 
 
 ![b3try3d github stats](https://github-readme-stats.vercel.app/api?username=haku0x666&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haku0x666)](https://github.com/haku0x666/github-readme-stats)
 
 
 
