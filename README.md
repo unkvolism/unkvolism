@@ -3,7 +3,7 @@
   <img align="right" src="https://data.whicdn.com/images/232263957/original.gif" width="50px"> 
 </p>
 
-## 👋 Hello, I'am haku  :man_technologist:
+## 👋 Hello, I'am Athena  :man_technologist:
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -12,12 +12,12 @@
 ### About me:
 - :game_die: I'm a young programmer
 - 💻 Join my [discord server](https://discord.gg/qVx4CbU6a9) to talk about anything!
-- :shipit: My projects is avaliable [here](https://github.com/haku0x666tab=repositories)
+- :shipit: My projects is avaliable [here](https://github.com/ath3nacuttab=repositories)
 - :heart: Hacking, Python, C, C++
-- :octocat: haku@root  nmap -sC -sV -p21,22,80,443 192.198.0.107
+- :octocat: ath3na@root  nmap -sC -sV -p21,22,80,443 192.198.0.107
 
 
-![b3try3d github stats](https://github-readme-stats.vercel.app/api?username=haku0x666&show_icons=true&theme=cobalt)
+![b3try3d github stats](https://github-readme-stats.vercel.app/api?username=ath3nacut&show_icons=true&theme=cobalt)
 
 
 
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/haku0x666">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/ath3nacut">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCivpChoiaRVkfY7EbxdDS5Q">
@@ -35,7 +35,7 @@
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://discord.gg/v5d3PZ9">
   <img src="https://orig00.deviantart.net/da8e/f/2017/113/2/0/discord_pixel_icon_by_grizz5-db6w18c.png" width="25px" alt="Discord"></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/haku0x666">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/ath3nacut">
   <img src="https://avatars0.githubusercontent.com/u/57802372?s=400&v=4" width="30px" alt="Github"></a>
 </p> 
 
