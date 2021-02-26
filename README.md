@@ -1,5 +1,4 @@
 <p align="left">
-  <img src="https://i.ibb.co/Xj9jM5n/haku0x666.png" width="249px"> 
   <img align="right" src="https://data.whicdn.com/images/232263957/original.gif" width="50px"> 
 </p>
 
