@@ -20,9 +20,10 @@
 
 
 
-<p align="center">
-  <img src="https://media.tenor.com/images/c3dbd26ea7e9dae2757399c48ba700aa/tenor.gif" width="200" >
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/J5HApJc.png" width="23%">
+  <h1><i>CTFTools</h1>
+<div>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/sofxwy">
