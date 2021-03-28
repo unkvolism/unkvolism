@@ -16,7 +16,7 @@
 - :octocat: ath3na@root  nmap -sC -sV -p21,22,80,443 192.198.0.107
 
 
-![b3try3d github stats](https://github-readme-stats.vercel.app/api?username=soraint0x80&show_icons=true&theme=cobalt)
+![](https://i.imgur.com/z7xiF4Z.png)
 
 
 
