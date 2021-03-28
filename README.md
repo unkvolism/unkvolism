@@ -26,7 +26,7 @@
 <div>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/soraint0x80">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/ant1c0n">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCivpChoiaRVkfY7EbxdDS5Q">
