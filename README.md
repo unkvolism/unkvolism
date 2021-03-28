@@ -16,7 +16,7 @@
 - :octocat: ath3na@root  nmap -sC -sV -p21,22,80,443 192.198.0.107
 
 
-![](https://i.imgur.com/z7xiF4Z.png)
+![](https://i.imgur.com/A8E7wrC.jpgg)
 
 
 
