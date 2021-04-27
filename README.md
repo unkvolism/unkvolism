@@ -12,16 +12,24 @@
 - :game_die: I'm a young programmer
 - 💻 Join my [discord server](https://discord.gg/qVx4CbU6a9) to talk about anything!
 - :shipit: My projects is avaliable [here](https://github.com/soraint0x80tab=repositories)
-- :heart: Hacking, Python, C, C++
-- :octocat: ath3na@root  nmap -sC -sV -p21,22,80,443 192.198.0.107
-
+- :heart: Hacking, Python, C, C++, 
+```
+ _______________________________________
+< sleep sleep sleep sleep sleep
+ ---------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
 ![](https://i.imgur.com/A8E7wrC.jpgg)
 
 
 
 <div align="center">
-  <img src="https://i.imgur.com/J5HApJc.png" width="23%">
+  <img src="https://i.imgur.com/dZOE26D.png" width="23%">
   <h1><i> hi :)</h1>
 <div>
 
