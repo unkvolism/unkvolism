@@ -24,14 +24,9 @@
                 ||     ||
 ```
 
-![](https://i.imgur.com/A8E7wrC.jpgg)
+![](https://i.imgur.com/dZOE26D.png)
 
 
-
-<div align="center">
-  <img src="https://i.imgur.com/dZOE26D.png" width="23%">
-  <h1><i> hi :)</h1>
-<div>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/ant1c0n">
