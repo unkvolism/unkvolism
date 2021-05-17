@@ -11,7 +11,7 @@
 ### About me:
 - :game_die: I'm a young programmer
 - 💻 Join my [discord server](https://discord.gg/qVx4CbU6a9) to talk about anything!
-- :shipit: My projects is avaliable [here](https://github.com/soraint0x80tab=repositories)
+- :shipit: My projects is avaliable [here](https://github.com/0x5addtab=repositories)
 - :heart: Hacking, Python, C, C++, 
 ```
  _______________________________________
@@ -38,7 +38,7 @@
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://discord.gg/v5d3PZ9">
   <img src="https://orig00.deviantart.net/da8e/f/2017/113/2/0/discord_pixel_icon_by_grizz5-db6w18c.png" width="25px" alt="Discord"></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/soraint0x80">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/0x5add">
   <img src="https://avatars0.githubusercontent.com/u/57802372?s=400&v=4" width="30px" alt="Github"></a>
 </p> 
 
