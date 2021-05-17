@@ -2,7 +2,7 @@
   <img align="right" src="https://data.whicdn.com/images/232263957/original.gif" width="50px"> 
 </p>
 
-## 👋 Hello, I'am sora  :man_technologist:
+## hy
 
 <img align='right' src='https://sempreupdate.com.br/wp-content/uploads/2019/10/tux-linux-gif.gif' width='200"'>
 
