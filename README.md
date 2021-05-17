@@ -13,7 +13,6 @@
 - 💻 Join my [discord server](https://discord.gg/qVx4CbU6a9) to talk about anything!
 - :shipit: My projects is avaliable [here](https://github.com/0x5addtab=repositories)
 - :heart: Hacking, Python, C, C++, 
-```
 
 ![](https://i.pinimg.com/originals/5d/8e/82/5d8e82e00df23332e55c8ee1e6ee8a06.gif)
 
