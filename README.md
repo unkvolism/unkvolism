@@ -15,9 +15,7 @@
 - :heart: Hacking, Python, C, C++, 
 ```
 
-
 ![](https://i.pinimg.com/originals/5d/8e/82/5d8e82e00df23332e55c8ee1e6ee8a06.gif)
-
 
 
 <p align="center">
