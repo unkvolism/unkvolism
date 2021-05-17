@@ -4,8 +4,6 @@
 
 ## hy
 
-<img align='right' src='https://sempreupdate.com.br/wp-content/uploads/2019/10/tux-linux-gif.gif' width='200"'>
-
 
 
 ### About me:
