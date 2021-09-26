@@ -5,7 +5,7 @@
 
 ## :man_technologist: Hello, I'am sora, also known as sorahed 👋
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://pa1.narvii.com/6909/606c45e5abeaba02f01f07281a1b722d40c39e45r1-623-688_hq.gif' width='200"'>
 
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -36,7 +36,7 @@ int main(void)
 </p>
 
 <p align="center">
-  <img src="https://pa1.narvii.com/6909/606c45e5abeaba02f01f07281a1b722d40c39e45r1-623-688_hq.gif" width="200"/>
+  <img src="https://pa1.narvii.com/6909/632e7f8c93327a9ad2650e4fbb5c89648d49a7ear1-426-475_hq.gif" width="200"/>
 </p>
 
 <p align="center">
