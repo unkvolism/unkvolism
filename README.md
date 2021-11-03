@@ -3,7 +3,7 @@
   <img align="right" src="https://data.whicdn.com/images/232263957/original.gif" width="50px"> 
 </p>
 
-## :man_technologist: Hello, I'am sora, also known as sorahed 👋
+## :man_technologist: Hello, I am sora, also known as sorahed 👋
 
 <img align='right' src='https://pa1.narvii.com/6909/606c45e5abeaba02f01f07281a1b722d40c39e45r1-623-688_hq.gif' width='200"'>
 
