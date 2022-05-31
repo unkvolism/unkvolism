@@ -9,11 +9,11 @@
 <div align="center">
     <a href"https://github.com/sorahed?tab=followers">
         <img alt="GitHub followers" 
-             src="https://img.shields.io/github/followers/OkamiMks?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
+             src="https://img.shields.io/github/followers/sorahed?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
     </a>
     <a href="https://twitter.com/sorahedd">
         <img alt="Twitter Follow" 
-             src="https://img.shields.io/twitter/follow/OkamiMwaree?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
+             src="https://img.shields.io/twitter/follow/sorahedd?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
     </a>
 </div><br>
 
@@ -23,7 +23,7 @@
 ```C++
 #include <iostream>
 #include <stdio.h>
-using namespace std::Okami チム;
+using namespace std::sorahed チム;
 
 int main() {
     char info[128] = "Software Engineer and Machine Learning";
@@ -70,14 +70,14 @@ int main() {
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=okamimks&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=sorahed&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/sorahed">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=okamimks&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorahed&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
     />
   </a>
 </p>
@@ -86,9 +86,9 @@ int main() {
   <a href="https://github.com/sorahed">
     <img
       align="center"
-      src="https://github-profile-trophy.vercel.app/?username=okamimks&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+      src="https://github-profile-trophy.vercel.app/?username=sorahed&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
   </a>
 </a>
 </p>
 
-![Metrics](https://metrics.lecoq.io/OkamiMks?template=classic&languages=1&isocalendar=1&achievements=1&discussions=1&lines=1&repositories=1&gists=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.aliases=C%2C%20C%2B%2B%2C%20Assembly&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&config.timezone=America%2FSao_Paulo)
+![Metrics](https://metrics.lecoq.io/sorahed?template=classic&languages=1&isocalendar=1&achievements=1&discussions=1&lines=1&repositories=1&gists=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.aliases=C%2C%20C%2B%2B%2C%20Assembly&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&config.timezone=America%2FSao_Paulo)
