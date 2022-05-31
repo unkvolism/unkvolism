@@ -1,49 +1,94 @@
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px"> 
-  <img align="right" src="https://data.whicdn.com/images/232263957/original.gif" width="50px"> 
-</p>
+<a href="https://discord.gg/5dZPVytKnn">
+    <h3 align="center">
+        <img src="https://i.imgur.com/EdZlPkK.gif" width="280"><br>
+        Welcome to my world!
+    </h3>
+    <p align="center">Human soul forged from the most rotten essence.</p>
+</a>
 
-## :man_technologist: Hello, I am sora, also known as sorahed 👋
+<div align="center">
+    <a href"https://github.com/sorahed?tab=followers">
+        <img alt="GitHub followers" 
+             src="https://img.shields.io/github/followers/OkamiMks?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
+    </a>
+    <a href="https://twitter.com/sorahedd">
+        <img alt="Twitter Follow" 
+             src="https://img.shields.io/twitter/follow/OkamiMwaree?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
+    </a>
+</div><br>
 
-<img align='right' src='https://pa1.narvii.com/6909/606c45e5abeaba02f01f07281a1b722d40c39e45r1-623-688_hq.gif' width='200"'>
+<div style="width: 10px;"></div>
+<a  href="https://discord.gg/5dZPVytKnn"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
 
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![Linux](https://img.shields.io/badge/-linux-%231572B6?style=flat-square&logo=linux)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-
-# About me:
-- :books: Hacking, Linux, Python, C
-
-
-```c
+```C++
+#include <iostream>
 #include <stdio.h>
-#include <stdlib.h>
-int main(void)
-{
-  const char *twitter = "https://twitter.com/sorahedd"
-  const char *linkedin = "https://www.linkedin.com/in/paulo-victor-336138207/"
-}
+using namespace std::Okami チム;
 
-```
+int main() {
+    char info[128] = "Software Engineer and Machine Learning";
 
+    char *langs[4] = { "C", "Python", "JavaScript", "PHP" };
+    char knowledge[5] = { "Red Teaming", "Malwares", "Programming", "Math"};
+    return 0; 
+    }
+``` 
+<br>
+  <p align="center">
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/archlinux.svg" alt="cpp" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/redhat.svg" alt="csharp" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="fsharp" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="nodejs" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/opengl.svg" alt="vscode" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/opencv.svg" alt="vscode" width="40" height="40"/>
+   </a>
+   <a href="https://code.visualstudio.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/neovim.svg" alt="vscode" width="40" height="40"/>
+   </a>
+</p>
+<h4 align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sorahed&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="sora"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorahed&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
+  <a href="https://github.com/sorahed">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=okamimks&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/sorahed">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=okamimks&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://pa1.narvii.com/6909/632e7f8c93327a9ad2650e4fbb5c89648d49a7ear1-426-475_hq.gif" width="200"/>
+  <a href="https://github.com/sorahed">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=okamimks&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+  </a>
+</a>
 </p>
 
-<p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/sorahedd">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
-  &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCByyXXtKK85oxjythCwMyxw">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
-  &nbsp; &nbsp;
-</p> 
+![Metrics](https://metrics.lecoq.io/OkamiMks?template=classic&languages=1&isocalendar=1&achievements=1&discussions=1&lines=1&repositories=1&gists=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.aliases=C%2C%20C%2B%2B%2C%20Assembly&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&config.timezone=America%2FSao_Paulo)
