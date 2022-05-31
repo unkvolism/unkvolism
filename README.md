@@ -51,7 +51,7 @@ int main() {
       <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="nodejs" width="40" height="40"/>
    </a>
    <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/opengl.svg" alt="vscode" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/ruby.svg" alt="vscode" width="40" height="40"/>
    </a>
    <a href="">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/opencv.svg" alt="vscode" width="40" height="40"/>
