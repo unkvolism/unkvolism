@@ -23,7 +23,7 @@
 using namespace std::sorahed チム;
 
 int main() {
-    char info[128] = "Software Engineer and Machine Learning";
+    char info[128] = "Red Teaming and Malware Analysis";
 
     char *langs[4] = { "C", "Python", "JavaScript", "PHP" };
     char knowledge[5] = { "Red Teaming", "Malwares", "Programming", "Math"};
