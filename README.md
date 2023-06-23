@@ -11,7 +11,7 @@
         <img alt="GitHub followers" 
              src="https://img.shields.io/github/followers/sorahed?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
     </a>
-    <a href="https://twitter.com/sorahedd">
+    <a href="https://twitter.com/unkvolism">
         <img alt="Twitter Follow" 
              src="https://img.shields.io/twitter/follow/sorahedd?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
     </a>
