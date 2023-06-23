@@ -13,7 +13,7 @@
     </a>
     <a href="https://twitter.com/unkvolism">
         <img alt="Twitter Follow" 
-             src="https://img.shields.io/twitter/follow/sorahedd?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
+             src="https://img.shields.io/twitter/follow/unkvolism?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
     </a>
 </div><br>
 
@@ -23,10 +23,10 @@
 using namespace std::sorahed チム;
 
 int main() {
-    char info[128] = "Red Teaming and Malware Analysis";
+    char info[128] = "Red Teaming & Programming";
 
-    char *langs[4] = { "C", "Python", "JavaScript", "PHP" };
-    char knowledge[5] = { "Red Teaming", "Malwares", "Programming", "Math"};
+    char *langs[4] = { "Python","PHP", "C#", "C++" };
+    char knowledge[5] = { "Red Teaming", "Malwares", "Programming", "Math", "Evasion"};
     return 0; 
     }
 ``` 
