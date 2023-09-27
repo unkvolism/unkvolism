@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/unkvolism" target="blank"><img src="https://img.shields.io/twitter/follow/unkvolism?logo=twitter&style=for-the-badge" alt="unkvolism" /></a> </p>
 
-- 📝 I regularly write articles on [inferi.zip](inferi.zip)
+- 📝 I regularly write articles on [inferi.zip](https://inferi.zip)
 
 - 📫 How to reach me **sorahed@proton.me**
 
