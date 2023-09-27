@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sorahed@proton.me**
 
-- 📄 Know about my experiences [Red Team, Malware, Evasion](Red Team, Malware, Evasion)
+- 📄 Know about my experiences (Red Team, Malware, Evasion)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
