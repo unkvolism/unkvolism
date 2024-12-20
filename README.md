@@ -16,7 +16,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkvolism&layout=compact&hide_border=true&title_color=ffbd59&text_color=FFF&bg_color=A020F0" />
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,vscode,neovim)](https://skillicons.dev)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
