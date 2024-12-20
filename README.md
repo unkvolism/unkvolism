@@ -6,7 +6,7 @@
   <table style="width:100%;">
     <tr>
       <td style="width:50%;">
-        <img width="100%" height="125px" src="https://github-readme-stats.vercel.app/api?username=unkvolism&show_icons=true&count_private=true&hide_border=true&title_color=ffbd59&icon_color=ffbd59&text_color=FFF&bg_color=A020F0" alt="unkvolism github stats" />
+        <img width="100%" height="150px" src="https://github-readme-stats.vercel.app/api?username=unkvolism&show_icons=true&count_private=true&hide_border=true&title_color=ffbd59&icon_color=ffbd59&text_color=FFF&bg_color=A020F0" alt="unkvolism github stats" />
       </td>
       <td style="width:50%;">
         <img src="https://i.imgur.com/lFhvsIA.jpeg" alt="Minha imagem" width="100%" height="495px" />
