@@ -9,7 +9,7 @@
         <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=unkvolism&show_icons=true&count_private=true&hide_border=true&title_color=ffbd59&icon_color=ffbd59&text_color=FFF&bg_color=A020F0" alt="unkvolism github stats" />
       </td>
       <td>
-        <img src="https://i.imgur.com/lFhvsIA.jpeg" alt="Minha imagem" width="250px" />
+        <img src="https://i.imgur.com/lFhvsIA.jpeg" alt="Minha imagem" width="550px" />
       </td>
     </tr>
   </table>
