@@ -8,6 +8,6 @@
   
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,vscode,neovim)](https://skillicons.dev)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=unkvolism&bg_color=0d1117&color=ffbd59&line=ffbd59&point=ffbd59&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=unkvolism&bg_color=A020F0&color=A020F0&line=ffbd59&point=ffbd59&area=true&hide_border=true)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
