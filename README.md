@@ -1,1 +1,1 @@
-wsp
+Às vezes, quando a própria alma se dobra em seu invólucro de carne, a mais vil criatura deseja o milagre, e, se não sabe rezar, ao menos por instinto abre-se a Deus, como uma boca se abre para respirar.
